@@ -1,11 +1,11 @@
-title: Hexo
-subtitle: "A fast, simple & powerful blog framework powered by Node.js."
-description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
-author: Hexo
+title: Update your sense of humour. No cats featured.
+subtitle: "When nerdy people try to be fun"
+description: "Blog about data, stats, and other boring stuff. Ha-ha! Told you! No cats here."
+author: Nat the Cat
 language: en
 timezone: UTC
 
-url: https://hexo.io
+url: https://nat-the-cat.github.io
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
@@ -14,7 +14,7 @@ new_post_name: :year-:month-:day-:title.md # File name of new posts
 post_asset_folder: true
 per_page: 0
 
-theme: navy
+theme: cactus-light
 deploy:
   type: git
   repo: git@github.com:hexojs/hexojs.github.io.git
